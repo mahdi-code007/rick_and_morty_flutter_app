@@ -1,0 +1,4 @@
+#Sat Aug 12 04:24:24 PDT 2023
+base.0=/Users/mahdi/StudioProjects/rick_and_morty_flutter_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
